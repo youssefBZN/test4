@@ -1,0 +1,8 @@
+:root {
+    --primary-color: #2666CF;
+    --secondaire-color: #395B64;
+}
+
+h1 {
+    color: var(--primay-color);
+}
